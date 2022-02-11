@@ -1,1 +1,1 @@
-# Hodgkin Huxley Model + Bifurcation analyis for potassium conductance variable
+My code for the Hodgkin Huxley model of a neuron. Used for bifurcation analysis using potassium conductance.
